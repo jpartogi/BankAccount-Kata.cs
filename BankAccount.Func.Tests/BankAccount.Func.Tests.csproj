@@ -55,10 +55,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Account.feature">
-      <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>Account.feature.cs</LastGenOutput>
-    </None>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
